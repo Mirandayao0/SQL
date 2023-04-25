@@ -1,4 +1,4 @@
-USE xil402;
+USE yac97;
 
 ### Database for our final project
 ### Jeff Li, Yaolin
