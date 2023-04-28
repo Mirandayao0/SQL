@@ -21,7 +21,7 @@ allowing for easy integration with various clients.
 - Open Postman
 - Start a new request in a new collection and **add Content-Type=application/json in Headers**
 
-##Class Diagram
+## Class Diagram
 ![Slide1.jpeg](./Slide1.jpeg)
 
 ### select and display data from customers,postions,services
