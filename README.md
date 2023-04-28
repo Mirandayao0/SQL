@@ -15,7 +15,7 @@ allowing for easy integration with various clients.
 ## Setup
 - Create conda environment or venv for Python:
 - conda env create -f requirement.yml
-- Start the API:
+- Start the API
 - conda activate sql
 - python API.py
 - Open Postman
