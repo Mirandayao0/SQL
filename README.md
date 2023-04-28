@@ -15,13 +15,11 @@ allowing for easy integration with various clients.
 ## Setup
 - Create conda environment or venv for Python:
 - conda env create -f requirement.yml
-- Start the API:
+- Start the API
 - conda activate sql
 - python API.py
 - Open Postman
 - Start a new request in a new collection and **add Content-Type=application/json in Headers**
-
-## Test Details
 
 ### select and display data from customers,postions,services
 [GET] http://127.0.0.1:5000/services
